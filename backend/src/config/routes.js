@@ -1,4 +1,4 @@
-const express = requeri('express')
+const express = require('express')
 
 module.exports = function (server) {
     //Define base URL

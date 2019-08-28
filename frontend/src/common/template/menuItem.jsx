@@ -6,6 +6,6 @@ export default props => (
         <Link to={props.path}>
             <i className={`fa fa-${props.icon}`}></i> <span>{props.label}</span>
         </Link>
-        <a href="#/billingCycles">Teste</a>
+        {/* <a href="#/billingCycles">Teste</a> */}
     </li>
 )
